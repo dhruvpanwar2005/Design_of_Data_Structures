@@ -1,1 +1,1 @@
-# Design of Data Structures (DDS)
+# Design of Data Structures
